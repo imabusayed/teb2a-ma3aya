@@ -1,24 +1,36 @@
 # Teb2a Ma3aya
 
-**An original song written and composed by [Abu Sayed](https://abusayed.com.bd/)**
+---
+
+**An original song written, composed, created, and owned by [Abu Sayed](https://abusayed.com.bd/)**
 
 ---
 
-## Song Information
+## 🎵 Song Information
 
 | Field | Details |
 |-------|---------|
-| Title | Teb2a Ma3aya |
-| Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 28, 2026 |
-| Song Page | [Open Song Page](https://imabusayed.github.io/teb2a-ma3aya/) |
-| License | [View License](./LICENSE.md) |
-| Get License | [Official Music Licensing for Teb2a Ma3aya](https://music.abusayed.com.bd/Licensing/) |
-| Artist | Abu Sayed |
+| **Title** | Teb2a Ma3aya |
+| **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
+| **Written On** | April 28, 2026 |
+| **Song Page** | [Open Song Page](https://imabusayed.github.io/teb2a-ma3aya/) |
+| **License** | [View License](./LICENSE.md) |
+| **Get License** | [Get a Licensing Quote for Teb2a Ma3aya](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/teb2a-ma3aya/) |
+| **Author** | Abu Sayed |
+| **Rights** | All Rights Reserved |
 
 ---
 
-## Excerpt
+## 📂 Repository Contents
+
+- `lyrics.txt` - Full song lyrics
+- `LICENSE.md` - Copyright and ownership information
+- [`manifest.json`](./manifest.json) - Machine-readable song metadata
+- [`hashes.txt`](./hashes.txt) - Cryptographic verification history log
+
+---
+
+## 📝 Lyric Preview
 
 > نظرة عيونك الليلة بتسحرني
 > ولمسة إيديك في العتمة بتاخدني
@@ -26,18 +38,18 @@
 > نار الغرام في قلبك بتدوبني
 > ...
 
-[View Full Lyrics ->](./lyrics.txt)
+[**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
 
 ---
 
-## About Abu Sayed
+## 👤 About Abu Sayed
 
 Abu Sayed is a multi-disciplinary creator, musician, and developer.
 He is the founder of [Vibe Tool](https://vibetool.org/) and a prolific songwriter
 whose music spans Bangla, Hindi, Arabic, Punjabi, and English.
 
-Website: [abusayed.com.bd](https://abusayed.com.bd/)
-Contact: [hi@abusayed.com.bd](mailto:hi@abusayed.com.bd)
+- **Website:** [abusayed.com.bd](https://abusayed.com.bd/)
+- **Contact:** [hi@abusayed.com.bd](mailto:hi@abusayed.com.bd)
 
 ### Listen on Streaming Platforms
 
@@ -55,42 +67,25 @@ Contact: [hi@abusayed.com.bd](mailto:hi@abusayed.com.bd)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](http://tiktok.com/@imabusayed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imabusayed/)
 
-### Full Platform Links
-
-| Platform | Link |
-|----------|------|
-| Website | [abusayed.com.bd](https://abusayed.com.bd/) |
-| Email | [hi@abusayed.com.bd](mailto:hi@abusayed.com.bd) |
-| Spotify | [Open Spotify](https://open.spotify.com/artist/6vnjuWLcV3nHwIFeozztMv) |
-| Apple Music | [Open Apple Music](https://music.apple.com/ae/artist/abu-sayed/1622976966) |
-| YouTube | [YouTube Channel](https://www.youtube.com/@AbuSayedMusic) |
-| Artist Official | [Facebook Profile](https://www.facebook.com/AbuSayed.TheCultOfPersonality/) |
-| Record Label | [Facebook Page](https://facebook.com/AbuSayedMusic) |
-| Instagram | [Instagram](https://instagram.com/AbuSayedMusic) |
-| X / Twitter | [X Profile](https://x.com/AbuSayedMusic) |
-| TikTok | [TikTok](http://tiktok.com/@imabusayed) |
-| Amazon Music | [Amazon Music](https://music.amazon.com/artists/B09X1N1F6F/abu-sayed) |
-| Deezer | [Deezer](https://www.deezer.com/en/artist/165449477) |
-| LinkedIn | [LinkedIn](https://linkedin.com/in/imabusayed/) |
-| GitHub | [GitHub](https://github.com/ImAbuSayed) |
-| Lyrics | [Musixmatch Artist](https://www.musixmatch.com/artist/Abu-Sayed-5) |
-| Boomplay | [Boomplay](https://www.boomplay.com/artists/46131891) |
-| Shazam | [Shazam](https://www.shazam.com/artist/abu-sayed/1622976966) |
-| IMDB | [IMDB](https://www.imdb.com/name/nm13702115/) |
-| Genius | [Genius](https://genius.com/artists/Abu-sayed) |
-| LyricFind | [LyricFind](https://lyricsondemand.com/abu_sayed) |
-| Musixmatch | [Creator](https://www.musixmatch.com/creator/Abu-Sayed-6) |
-| Buy Me a Coffee | [Support Abu Sayed](https://buymeacoffee.com/imsayed) |
-
 ---
 
-## Copyright Notice
+## 📜 Copyright Notice
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 
 This song is an original creative work by Abu Sayed.
 All lyrics, melody, and composition rights are retained by the author.
-See [LICENSE.md](./LICENSE.md) for full terms.
+
+### 🛡️ Proof of Authorship
+
+| Verification Detail | Information |
+|:-------------------|:------------|
+| **Author** | [Abu Sayed](https://abusayed.com.bd/) |
+| **Version** | `v1` |
+| **SHA-256 Hash** | `be777048ea93fdb0713d3d3adb4aa873e5d914baf1db3807adba1437da140b34` |
+| **Timestamp** | May 09, 2026 |
+
+See [**LICENSE.md**](./LICENSE.md) for full terms and conditions.
 
 ---
 
